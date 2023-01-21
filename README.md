@@ -1,6 +1,6 @@
 # TodoApp
 
-A new Flutter project.
+A ToDo App built on Flutter with locally stores the data using Hive and implements basic Authentication using FireBase.
 
 ## Getting Started
 
